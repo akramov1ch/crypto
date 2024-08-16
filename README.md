@@ -8,7 +8,7 @@ This akr78 method in the crypto package is a method that is based on the sha3 an
 ## Installation
 
 ```
-go get github.com/akramov1ch/crypto@latest
+go get github.com/akramov1ch/crypto/akr78@latest
 ```
 
 ## Usage Akr78
